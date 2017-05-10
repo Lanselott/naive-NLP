@@ -1,0 +1,4 @@
+http://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
+http://www.cs.cmu.edu/~ark/TweetNLP/cluster_viewer.html
+https://github.com/sgsinclair/alta/blob/dc47e4b47b133cee24a85e9817592971e67681cd/ipynb/utilities/ComplexSentimentAnalysis.ipynb
+http://fjavieralba.com/basic-sentiment-analysis-with-python.html
